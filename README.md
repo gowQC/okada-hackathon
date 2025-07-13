@@ -1,6 +1,6 @@
 # My Okada Hackathon Project
 
-Thank you for taking the time to look at my project. Sadly, I could not do most of what I wanted to do within the deadline, as Python is not my strongsuit and learning to integrate AI into my work is a very new concept for me. However, despite this being a work-in-progress project, I have certainly made some positive developments and have managed to successfully send context to Groq AI for an educated response. Regardless of how I rank when being judged amongst other contestants, I would say this has certainly been a learning experience.
+Thank you for taking the time to look at my project. Sadly, I could not do most of what I wanted to do within the deadline, as Python is not my strong suit and learning to integrate AI into my work is a very new concept for me. However, despite this being a work-in-progress project, I have certainly made some positive developments and have managed to successfully send context to Groq AI for an educated response. Regardless of how I rank when being judged amongst other contestants, I would say this has certainly been a learning experience.
 
 ## Before Using My Project
 
