@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+httpx
+pandas
+chromadb[persist]
+sentence-transformers
+python-dotenv
